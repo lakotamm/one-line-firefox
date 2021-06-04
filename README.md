@@ -25,8 +25,6 @@ A minimal one-liner, compatible with the latest Firefox 89 and the new Proton in
 
 - Restart Firefox
 
-- If your bar doesn't show up in fullscreen when moving the cursor to the top edge of the screen, see [#2](https://github.com/khuedoan98/one-line-firefox/issues/2)
-
 ## Known bugs
 The Tab bar is moved to the right by 5% when the window is floating (not attached to a side, neither maximized). If you have any ideas for fix, please let me know.
 
