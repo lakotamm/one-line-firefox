@@ -25,3 +25,7 @@
     margin: 0px !important;
     width: 100% !important
 }
+
+#page-action-buttons {
+    display: none !important;
+}
