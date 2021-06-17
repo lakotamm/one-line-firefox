@@ -21,7 +21,7 @@ A minimal one-liner, compatible with the latest Firefox 89 and the new Proton in
 
 - Create a sub-folder named `chrome`.
 
-- Put this [`userChrome.css`](https://raw.githubusercontent.com/lakotamm/one-line-firefox/master/userChrome.css) into that folder (you can download this file by right-click and select _Save link as..._).
+- Put this file [`Linux/userChrome.css`](https://raw.githubusercontent.com/lakotamm/one-line-firefox/Linux/userChrome.css) (if you are using Linux) or this file [`Windows-10/11/userChrome.css`](https://raw.githubusercontent.com/lakotamm/one-line-firefox/Windows-10/11/userChrome.css) (if you are using Windows) into that folder (you can download this file by right-click and select _Save link as..._).
 
 - Restart Firefox
 
