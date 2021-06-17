@@ -1,5 +1,7 @@
 # One-line Firefox
-A minimal one-liner, compatible with the latest Firefox 89 and the new Proton interface
+A minimal one-liner, compatible with the latest Firefox 89 and the new Proton interface.
+
+This is a Linux branch, visit the [`Window-10/11 branch`](https://github.com/lakotamm/one-line-firefox/tree/Windows-10/11) if you are a Windows user.
 ## Screenshots
 
 ![Light](images/light.png)
