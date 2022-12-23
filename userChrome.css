@@ -2,18 +2,18 @@
 
 #TabsToolbar {
     margin-top: -7px !important;
-    margin-bottom: 4px !important;
+    margin-bottom: 5px !important;
     margin-left: 45vw !important;
-    max-height: 25px !important;
+    max-height: 40px !important;
 }
 
 /* Nav bar*/
 #nav-bar {
     background: transparent !important;
-    margin-top: -25px !important;
+    margin-top: -40px !important;
     margin-bottom: 0px !important;
     margin-right: 55vw !important;
-    height: 25px !important;
+    height: 30px !important;
 }
 
 /* URL bar */
