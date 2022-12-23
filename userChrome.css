@@ -1,8 +1,8 @@
 /* Tab bar */
 
 #TabsToolbar {
-    margin-top: -7px !important;
-    margin-bottom: 5px !important;
+    margin-top: -1px !important;
+    margin-bottom: 1px !important;
     margin-left: 45vw !important;
     max-height: 40px !important;
 }
@@ -10,8 +10,7 @@
 /* Nav bar*/
 #nav-bar {
     background: transparent !important;
-    margin-top: -40px !important;
-    margin-bottom: 0px !important;
+    margin-top: -38px !important;
     margin-right: 55vw !important;
     height: 30px !important;
 }
@@ -19,13 +18,4 @@
 /* URL bar */
 #urlbar-container {
     min-width: 200px !important;
-}
-
-.urlbarView {
-    margin: 0px !important;
-    width: 100% !important
-}
-
-#page-action-buttons {
-    display: none !important;
 }
